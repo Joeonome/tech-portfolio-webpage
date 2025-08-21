@@ -1,32 +1,40 @@
-const logotext = "{Initials Here}";
+const logotext = "J.O.";
 const meta = {
-    title: "{Your name}",
-    description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
+    title: "Joseph Onumeguolor",
+    description: "I'm Joseph Onumeguolor, a technologist and Cybersecurity Analyst.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "Hi, I'm Joseph Onumeguolor",
     animated: {
         first: "Technologist",
-        second: "Visionary",
-        third: "Ethical Hacker",
-        fourth: "Programmer",
-        fifth: "Malware Developer",
-        sixth: "Analyst",
+        second: "Cybersecurity Analyst",
+        third: "DevOps Engineer",
+        fourth: "DevSecOps Engineer",
+        fifth: "Ethical Hacker",
+        sixth: "Programmer",
+        seventh: "AI Engineer"
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
-    your_img_url: "https://i.ibb.co/wRjcnGL/me.jpg",
+    your_img_url: "https://i.ibb.co/NMStnxt/Professional-pic-bgremov.png",
 };
 
 const dataabout = {
-    title: "Who am I?",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    title: "Professional Summary",
+    aboutme: `As a dedicated professional transitioning from a medical career to cybersecurity, I bring a unique blend of transferable skills—including attention to detail, time management, and the ability to perform under pressure—paired with strong programming and communication abilities. I am deeply committed to protecting not only people but also digital systems and infrastructure, upholding legal standards, and ensuring equitable access to secure and trustworthy technologies.
+
+My passion for cybersecurity stems from a strong desire to contribute to a safer cyberspace and to defend organizations and individuals against emerging digital threats. This drive has expanded into the design, deployment, and automation of resilient digital systems and infrastructure—where I apply DevOps principles to streamline operations and DevSecOps practices to embed security from the ground up.
+
+As an aspiring AI Engineer, I also leverage artificial intelligence to generate, optimize, and fine-tune these systems, ensuring they are adaptive, intelligent, and secure. By integrating AI into cybersecurity workflows and system development, I can help organizations stay ahead of evolving threats while improving efficiency and decision-making.
+
+My strengths and values align seamlessly with the security needs of modern organizations. With a background in high-stakes environments, I am well-equipped to assess risks, communicate effectively across teams, and respond decisively under pressure. My drive to protect systems and data, combined with a deep respect for ethical standards and the law, enables me to support organizations in building resilient, compliant, and inclusive strategies that foster trust and long-term growth.`,
 };
+
 const worktimeline = [{
-        jobtitle: "Example 1",
-        where: "Google",
-        date: "2023",
+        jobtitle: "Devops Engineer",
+        where: "HNG Tech",
+        date: "2025",
     },
     {
         jobtitle: "Example 2",
@@ -45,11 +53,7 @@ const skills = [{
     },
     
     {
-        name: "C",
-    },
-    
-    {
-        name: "Java",
+        name: "TCPdump",
     },
     
     {
@@ -57,11 +61,11 @@ const skills = [{
     },
 
     {
-        name: "Powershell",
+        name: "Linux",
     },
 
     {
-        name: "Reverse Engineering",
+        name: "SQL",
     },
 
     {
@@ -71,58 +75,111 @@ const skills = [{
     {
         name: "Network Exploitation",
     },
+
+    {
+        name: "Google SCC",
+    },
+
+    {
+        name: "Golang",
+    },
+
+    {
+        name: "NGINX",
+    },
+
+    {
+        name: "Docker",
+    },
+
+    {
+        name: "Kubernetes",
+    },
+
+    {
+        name: "Ansible",
+    },
+
+    {
+        name: "Terraform",
+    },
+
+    {
+        name: "Git",
+    },
+
+    {
+        name: "Github Actions",
+    },
+
+    {
+        name: "Jenkins",
+    },
+
+    {
+        name: "Prometheus",
+    },
+
+    {
+        name: "Node.js",
+    },
+
+    {
+        name: "React",
+    },
+
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.ibb.co/ns0tKYD8/IMG-2684.jpg",
+        description: "visit.menu",
+        link: "https://visit.menu",
+    },
+    {
+        img: "https://i.ibb.co/HTJ4FjSJ/IMG-2685.jpg",
+        description: "First Cyberlab Documentation with network testing and SMB enumeration.",
+        link: "https://joeonome.substack.com/p/cyber-lab-documentation",
+    },
+    {
+        img: "https://i.ibb.co/RpJycwqG/IMG-2686.jpg",
+        description: "Wireshark Analysis",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/YrD9Mzq/171229569.jpg",
+        description: "Setting up Firewall Rules Using pfSense",
+        link: "https://joeonome.substack.com/p/pfsense-firewall-setup",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/dJmtSrNL/IMG-2687.jpg",
+        description: "TCPdump Analysis",
+        link: "https://joeonome.substack.com/p/exploring-network-traffic-with-tcpdump",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/0y0gByRQ/IMG-2688.jpg",
+        description: "Setting Custom rules with IDS/IPS - Suricata",
+        link: "https://joeonome.substack.com/p/creating-my-first-custom-ids-rule",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/G4fGJ4KR/1-edtri-FUy-ZDbq07uu06yn-Bg.jpg",
+        description: "Forensic Analysis with Autopsy.",
+        link: "https://drive.google.com/file/d/1r8WjNQla_CcmX698znBb8zoqqW8JU8sH/",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/n8m4Fc7b/IMG-2764.jpg",
+        description: "DiagnoseMe: An AI-Powered Diagnostic Assistant with AWS PartyRock",
+        link: "https://joeonome.substack.com/p/diagnoseme-building-an-ai-powered",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/zWKWtFXN/Chat-GPT-Image-Aug-18-2025-12-13-26-AM.png",
+        description: "Other Projects (Blog)",
+        link: "https://joeonome.substack.com/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/qMW2ZsMZ/IMG-1981.jpg",
+        description: "Tech Certificates",
+        link: "https://drive.google.com/drive/folders/1tWGGrsXIF93a5HlWzkqC8FLqz-LhrAkQ",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
@@ -137,18 +194,18 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "test@test.com",
+    YOUR_EMAIL: "joseph.onumeguolor@com",
     description: "Looking forward to hearing from you!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "SERVICE_ID",
-    YOUR_TEMPLATE_ID: "TEMPLATE_ID",
-    YOUR_USER_ID: "USER_ID (PUBLIC_KEY)",
+    YOUR_SERVICE_ID: "service_xkwictf",
+    YOUR_TEMPLATE_ID: "template_8sa40bo",
+    YOUR_USER_ID: "EXBmvC9D1GaeeBb1C",
 };
 
 const socialprofils = {
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
+    github: "https://github.com/joeonome/",
+    linkedin: "https://linkedin.com/in/joeonome/",
 };
 export {
     meta,
