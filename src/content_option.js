@@ -22,7 +22,7 @@ const introdata = {
 
 const dataabout = {
     title: "Professional Summary",
-    aboutme: `As a dedicated professional transitioning from a medical career to cybersecurity, I bring a unique blend of transferable skills—including attention to detail, time management, and the ability to perform under pressure—paired with strong programming and communication abilities. I am deeply committed to protecting not only people but also digital systems and infrastructure, upholding legal standards, and ensuring equitable access to secure and trustworthy technologies.
+    aboutme: `As a dedicated professional transitioning from a medical career to cybersecurity, I bring a unique blend of transferable skills, including attention to detail, time management, and the ability to perform under pressure—paired with strong programming and communication abilities. I am deeply committed to protecting not only people but also digital systems and infrastructure, upholding legal standards, and ensuring equitable access to secure and trustworthy technologies.
 
 My passion for cybersecurity stems from a strong desire to contribute to a safer cyberspace and to defend organizations and individuals against emerging digital threats. This drive has expanded into the design, deployment, and automation of resilient digital systems and infrastructure—where I apply DevOps principles to streamline operations and DevSecOps practices to embed security from the ground up.
 
