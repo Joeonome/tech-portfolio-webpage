@@ -87,7 +87,7 @@
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
 }
-  .skill-card:hover {
+.skill-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 4px 8px rgb(123, 248, 112);
 }
@@ -106,5 +106,5 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Adjust the minmax width as needed */
     gap: 10px; /* Add some gap between the cards */
-  }
-  
+    padding-bottom: 25px;
+}

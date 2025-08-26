@@ -36,16 +36,16 @@ const worktimeline = [{
         where: "HNG Tech",
         date: "2025",
     },
-    {
-        jobtitle: "Example 2",
-        where: "Micosoft",
-        date: "2022",
-    },
-    {
-        jobtitle: "Example 3",
-        where: "Meta",
-        date: "2021",
-    },
+    //{
+    //    jobtitle: "Example 2",
+    //    where: "Micosoft",
+    //    date: "2022",
+    //},
+    //{
+    //    jobtitle: "Example 3",
+    //    where: "Meta",
+    //    date: "2021",
+    //},
 ];
 
 const skills = [{
