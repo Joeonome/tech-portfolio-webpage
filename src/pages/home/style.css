@@ -236,3 +236,10 @@ section {
 .typewriter-text {
     color: rgb(32, 236, 83);
 }
+
+@media (max-width:470px) {
+    .margin {
+        margin-top: 15px;
+        margin-left: 15%;
+    }
+}
