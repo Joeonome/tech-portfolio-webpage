@@ -182,14 +182,14 @@ const dataportfolio = [{
         link: "https://drive.google.com/drive/folders/1tWGGrsXIF93a5HlWzkqC8FLqz-LhrAkQ",
     },
     {
-        img: "https://i.ibb.co/kYHd4Z6/Screenshot-from-2025-09-01-02-49-58.png",
+        img: "https://i.ibb.co/bjdfGpQj/Screenshot-from-2025-09-02-03-49-54.png ",
         description: "SOC Cyber Lab with Sysmon & Splunk",
         link: "https://joeonome.substack.com/p/building-your-own-soc-cyber-lab-a",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/NgzF8sfT/172532931.jpg",
+        description: "Google Cloud Cybersecurity Capstone Project",
+        link: "https://joeonome.substack.com/p/my-first-cybersecurity-walkthrough",
     },
 ];
 
