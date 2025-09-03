@@ -73,8 +73,13 @@
     padding: 4px 8px;
     text-align: center;
     font-size: 1rem;
+    text-decoration: none;
 }
 
 .po_item .content a:hover {
-    text-decoration: none;
+    color: var(--text-color-3);
+}
+
+.rounded_corners_all {
+    border-radius: 15px;
 }

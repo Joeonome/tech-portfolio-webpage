@@ -136,14 +136,14 @@ const dataportfolio = [{
         link: "https://visit.menu",
     },
     {
-        img: "https://i.ibb.co/HTJ4FjSJ/IMG-2685.jpg",
+        img: "https://i.ibb.co/XZQSQ54s/Chat-GPT-Image-Aug-1-2025-12-58-10-PM.png",
         description: "First Cyberlab Documentation with network testing and SMB enumeration.",
         link: "https://joeonome.substack.com/p/cyber-lab-documentation",
     },
     {
-        img: "https://i.ibb.co/RpJycwqG/IMG-2686.jpg",
+        img: "https://i.ibb.co/1YwZM096/Chat-GPT-Image-Sep-3-2025-11-01-47-PM.png",
         description: "Wireshark Analysis",
-        link: "#",
+        link: "https://joeonome.substack.com/p/analyzing-my-first-packet-with-wireshark",
     },
     {
         img: "https://i.ibb.co/YrD9Mzq/171229569.jpg",
@@ -156,12 +156,12 @@ const dataportfolio = [{
         link: "https://joeonome.substack.com/p/exploring-network-traffic-with-tcpdump",
     },
     {
-        img: "https://i.ibb.co/0y0gByRQ/IMG-2688.jpg",
+        img: "https://i.ibb.co/nM7nq3WD/Chat-GPT-Image-Sep-3-2025-11-24-21-PM.png",
         description: "Setting Custom rules with IDS/IPS - Suricata",
         link: "https://joeonome.substack.com/p/creating-my-first-custom-ids-rule",
     },
     {
-        img: "https://i.ibb.co/G4fGJ4KR/1-edtri-FUy-ZDbq07uu06yn-Bg.jpg",
+        img: "https://i.ibb.co/xtPyv9dz/autopsy-digital-forensics-logo-png-seeklogo-488096.png",
         description: "Forensic Analysis with Autopsy.",
         link: "https://drive.google.com/file/d/1r8WjNQla_CcmX698znBb8zoqqW8JU8sH/",
     },
