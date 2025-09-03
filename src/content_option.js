@@ -172,16 +172,6 @@ const dataportfolio = [{
         link: "https://joeonome.substack.com/p/diagnoseme-building-an-ai-powered",
     },
     {
-        img: "https://i.ibb.co/zWKWtFXN/Chat-GPT-Image-Aug-18-2025-12-13-26-AM.png",
-        description: "Other Projects (Blog)",
-        link: "https://joeonome.substack.com/",
-    },
-    {
-        img: "https://i.ibb.co/qMW2ZsMZ/IMG-1981.jpg",
-        description: "Tech Certificates",
-        link: "https://drive.google.com/drive/folders/1tWGGrsXIF93a5HlWzkqC8FLqz-LhrAkQ",
-    },
-    {
         img: "https://i.ibb.co/bjdfGpQj/Screenshot-from-2025-09-02-03-49-54.png ",
         description: "SOC Cyber Lab with Sysmon & Splunk",
         link: "https://joeonome.substack.com/p/building-your-own-soc-cyber-lab-a",
@@ -190,6 +180,16 @@ const dataportfolio = [{
         img: "https://i.ibb.co/NgzF8sfT/172532931.jpg",
         description: "Google Cloud Cybersecurity Capstone Project",
         link: "https://joeonome.substack.com/p/my-first-cybersecurity-walkthrough",
+    },
+    {
+        img: "https://i.ibb.co/zWKWtFXN/Chat-GPT-Image-Aug-18-2025-12-13-26-AM.png",
+        description: "Other Projects (Blog)",
+        link: "https://joeonome.substack.com/",
+    },
+    {
+        img: "https://i.ibb.co/qMW2ZsMZ/IMG-1981.jpg",
+        description: "Tech Certificates",
+        link: "https://drive.google.com/drive/folders/1tWGGrsXIF93a5HlWzkqC8FLqz-LhrAkQ",
     },
 ];
 
