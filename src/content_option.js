@@ -33,7 +33,7 @@ My strengths and values align seamlessly with the security needs of modern organ
 
 const worktimeline = [{
         jobtitle: "Devops Engineer",
-        where: "HNG Tech",
+        where: "MenuSwift",
         date: "2025",
     },
     //{
@@ -190,6 +190,11 @@ const dataportfolio = [{
         img: "https://i.ibb.co/qMW2ZsMZ/IMG-1981.jpg",
         description: "Tech Certificates",
         link: "https://drive.google.com/drive/folders/1tWGGrsXIF93a5HlWzkqC8FLqz-LhrAkQ",
+    },
+    {
+        img: "https://i.ibb.co/Kj4jrjpZ/credly.png",
+        description: "Credly Badges",
+        link: "https://www.credly.com/users/joseph-onumeguolor",
     },
 ];
 
