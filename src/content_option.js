@@ -17,7 +17,7 @@ const introdata = {
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
-    your_img_url: "https://i.ibb.co/NMStnxt/Professional-pic-bgremov.png",
+    your_img_url: "https://i.ibb.co/fzcX9VDL/image.png",
 };
 
 const dataabout = {
