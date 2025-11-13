@@ -141,6 +141,11 @@ const dataportfolio = [{
         link: "https://joeonome.substack.com/p/cyber-lab-documentation",
     },
     {
+        img: "https://i.ibb.co/k2vgghZn/Generated-Image-November-13-2025-11-35-PM.png",
+        description: "Building a Virtual Private Cloud (VPC) from Scratch on Linux",
+        link: "https://joeonome.substack.com/p/building-a-virtual-private-cloud",
+    },
+    {
         img: "https://i.ibb.co/1YwZM096/Chat-GPT-Image-Sep-3-2025-11-01-47-PM.png",
         description: "Wireshark Analysis",
         link: "https://joeonome.substack.com/p/analyzing-my-first-packet-with-wireshark",
