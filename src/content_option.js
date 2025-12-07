@@ -165,6 +165,12 @@ const dataportfolio = [{
         description: "Setting Custom rules with IDS/IPS - Suricata",
         link: "https://joeonome.substack.com/p/creating-my-first-custom-ids-rule",
     },
+
+    {
+        img: "https://i.ibb.co/rRNhyRKf/microservices-deployment-with-terraform-ansible.png",
+        description: "Building a Self-Healing Infrastructure: Terraform, Ansible, and Intelligent Drift Detection",
+        link: "https://joeonome.substack.com/p/building-production-ready-infrastructure",
+    },
     {
         img: "https://i.ibb.co/xtPyv9dz/autopsy-digital-forensics-logo-png-seeklogo-488096.png",
         description: "Forensic Analysis with Autopsy.",
