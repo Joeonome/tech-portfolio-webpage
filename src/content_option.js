@@ -167,6 +167,11 @@ const dataportfolio = [{
     },
 
     {
+        img: "https://i.ibb.co/zVfYmKSH/stage-2-3.png",
+        description: "Production-Grade Blue/Green Deployment with Automated Failover & Real-Time Observability",
+        link: "https://joeonome.substack.com/p/zero-downtime-deployments-building",
+    },
+    {
         img: "https://i.ibb.co/rRNhyRKf/microservices-deployment-with-terraform-ansible.png",
         description: "Building a Self-Healing Infrastructure: Terraform, Ansible, and Intelligent Drift Detection",
         link: "https://joeonome.substack.com/p/building-production-ready-infrastructure",
