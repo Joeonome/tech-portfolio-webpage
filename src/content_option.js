@@ -22,25 +22,55 @@ const introdata = {
 
 const dataabout = {
     title: "Professional Summary",
-    aboutme: `As a dedicated professional transitioning from a medical career to cybersecurity, I bring a unique blend of transferable skills, including attention to detail, time management, and the ability to perform under pressure—paired with strong programming and communication abilities. I am deeply committed to protecting not only people but also digital systems and infrastructure, upholding legal standards, and ensuring equitable access to secure and trustworthy technologies.
+    aboutme: `I am a Cybersecurity and DevOps Engineer with a unique professional transition from a medical background into technology, bringing precision, accountability, and calm decision-making from high-stakes healthcare environments into secure system design and infrastructure automation.
 
-My passion for cybersecurity stems from a strong desire to contribute to a safer cyberspace and to defend organizations and individuals against emerging digital threats. This drive has expanded into the design, deployment, and automation of resilient digital systems and infrastructure—where I apply DevOps principles to streamline operations and DevSecOps practices to embed security from the ground up.
+My experience spans DevOps, cloud infrastructure, and cybersecurity, where I design, deploy, and automate resilient, scalable, and secure systems using modern DevOps and DevSecOps best practices. I focus on embedding security from the ground up, ensuring compliance, reliability, and operational efficiency across the software lifecycle.
 
-As an aspiring AI Engineer, I also leverage artificial intelligence to generate, optimize, and fine-tune these systems, ensuring they are adaptive, intelligent, and secure. By integrating AI into cybersecurity workflows and system development, I can help organizations stay ahead of evolving threats while improving efficiency and decision-making.
+I bring strong hands-on skills in:
 
-My strengths and values align seamlessly with the security needs of modern organizations. With a background in high-stakes environments, I am well-equipped to assess risks, communicate effectively across teams, and respond decisively under pressure. My drive to protect systems and data, combined with a deep respect for ethical standards and the law, enables me to support organizations in building resilient, compliant, and inclusive strategies that foster trust and long-term growth.`,
+- Cybersecurity & Blue Team practices
+
+- DevOps / DevSecOps pipelines
+
+- Cloud & container security
+
+- Infrastructure as Code (Terraform, Ansible)
+
+- CI/CD security & supply-chain protection
+
+- Linux, networking, and system hardening
+
+- Automation & scripting
+
+- Monitoring, logging, and incident response
+
+As an aspiring AI Engineer, I actively explore how artificial intelligence can strengthen cybersecurity, from threat detection and anomaly analysis to intelligent automation and decision support. I apply AI concepts to help build systems that are adaptive, efficient, and secure by design.
+
+My background in medicine sharpened my:
+
+- Attention to detail
+
+- Risk assessment and mitigation
+
+- Ethical responsibility and compliance
+
+- Clear communication under pressure
+
+These strengths now translate directly into protecting digital systems, data, and infrastructure. I am driven by a strong commitment to security, trust, and resilience, helping organizations defend against evolving threats while enabling innovation.
+
+I am passionate about building secure, automated, and intelligent infrastructure that supports long-term growth, regulatory compliance, and equitable access to trustworthy technology.`,
 };
 
 const worktimeline = [{
         jobtitle: "Devops Engineer",
-        where: "MenuSwift",
+        where: "MenuCard",
         date: "2025",
     },
-    //{
-    //    jobtitle: "Example 2",
-    //    where: "Micosoft",
-    //    date: "2022",
-    //},
+    {
+        jobtitle: "Devops Engineer",
+        where: "Legal WatchDog",
+        date: "2025",
+    },
     //{
     //    jobtitle: "Example 3",
     //    where: "Meta",
