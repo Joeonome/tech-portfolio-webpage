@@ -26,35 +26,49 @@ const dataabout = {
 
 My experience spans DevOps, cloud infrastructure, and cybersecurity, where I design, deploy, and automate resilient, scalable, and secure systems using modern DevOps and DevSecOps best practices. I focus on embedding security from the ground up, ensuring compliance, reliability, and operational efficiency across the software lifecycle.
 
-I bring strong hands-on skills in:
+I bring strong hands-on skills in: \n
 
-- Cybersecurity & Blue Team practices
+- Cybersecurity & Blue Team practices \n
 
-- DevOps / DevSecOps pipelines
+- DevOps / DevSecOps pipelines \n
 
-- Cloud & container security
+- Cloud platforms (AWS, GCP) \n
 
-- Infrastructure as Code (Terraform, Ansible)
+- Containerization & orchestration (Docker, Kubernetes) \n  
 
-- CI/CD security & supply-chain protection
+- Cloud & container security \n
 
-- Linux, networking, and system hardening
+- Infrastructure as Code (Terraform, Ansible) \n
 
-- Automation & scripting
+- CI/CD security & supply-chain protection \n
 
-- Monitoring, logging, and incident response
+- Scripting & automation (Python, Bash) \n
+
+- Linux, networking, and system hardening \n
+
+- Vulnerability management & penetration testing \n
+
+- Security information and event management (SIEM) \n
+
+- Monitoring, logging, and incident response \n
 
 As an aspiring AI Engineer, I actively explore how artificial intelligence can strengthen cybersecurity, from threat detection and anomaly analysis to intelligent automation and decision support. I apply AI concepts to help build systems that are adaptive, efficient, and secure by design.
 
-My background in medicine sharpened my:
+My background in medicine sharpened my: \n
 
-- Attention to detail
+- Analytical thinking and problem-solving \n
 
-- Risk assessment and mitigation
+- Ability to work under pressure \n
 
-- Ethical responsibility and compliance
+- Team collaboration and leadership \n
 
-- Clear communication under pressure
+- Attention to detail \n    
+
+- Risk assessment and mitigation \n
+
+- Ethical responsibility and compliance \n
+
+- Clear communication under pressure \n
 
 These strengths now translate directly into protecting digital systems, data, and infrastructure. I am driven by a strong commitment to security, trust, and resilience, helping organizations defend against evolving threats while enabling innovation.
 
